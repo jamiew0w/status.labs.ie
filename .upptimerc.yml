@@ -18,8 +18,6 @@ sites:
     url: https://huginn.labs.ie
   - name: jenkins.labs.ie
     url: https://jenkins.labs.ie
-    expectedStatusCodes:
-      - 403
   - name: nc.labs.ie
     url: https://nc.labs.ie
   - name: paste.labs.ie
