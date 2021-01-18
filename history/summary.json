@@ -113,18 +113,18 @@
     "icon": "https://favicons.githubusercontent.com/jenkins.labs.ie",
     "slug": "jenkins-labs-ie",
     "status": "down",
-    "uptime": "27.65%",
-    "uptimeDay": "27.65%",
-    "uptimeWeek": "27.65%",
-    "uptimeMonth": "27.65%",
-    "uptimeYear": "27.65%",
+    "uptime": "13.38%",
+    "uptimeDay": "13.38%",
+    "uptimeWeek": "13.38%",
+    "uptimeMonth": "13.38%",
+    "uptimeYear": "13.38%",
     "time": 2301,
     "timeDay": 2301,
     "timeWeek": 2301,
     "timeMonth": 2301,
     "timeYear": 2301,
     "dailyMinutesDown": {
-      "2021-01-18": 0
+      "2021-01-18": 1
     }
   },
   {
