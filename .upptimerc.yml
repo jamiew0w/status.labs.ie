@@ -37,7 +37,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.labs.ie
-  i18n:
-    footer: This page is [open source]($REPO).
+
+i18n:
+  footer: This page is [open source]($REPO).
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
