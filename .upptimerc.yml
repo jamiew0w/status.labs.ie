@@ -27,6 +27,9 @@ sites:
   - name: znc.labs.ie
     url: https://znc.labs.ie
 
+assignees:
+  - jamiew0w
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.labs.ie
@@ -34,9 +37,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.labs.ie
-
   i18n:
     footer: This page is [open source]($REPO).
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
