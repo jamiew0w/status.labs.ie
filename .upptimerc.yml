@@ -39,7 +39,7 @@ status-website:
   name: status.labs.ie
 
 i18n:
-  footer:
+  footer: <a href="https://labs.ie" target="_blank">labs.ie</a>
 
 workflowSchedule:
   graphs: "*/5 * * * *"
