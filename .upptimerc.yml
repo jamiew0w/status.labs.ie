@@ -2,6 +2,9 @@
 owner: jamiew0w
 repo: status.labs.ie
 
+status-page:
+  theme: "dark"
+  
 # Add your sites here
 sites:
   - name: labs.ie
