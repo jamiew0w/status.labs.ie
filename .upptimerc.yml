@@ -1,9 +1,6 @@
 # Change these first
 owner: jamiew0w
 repo: status.labs.ie
-
-status-page:
-  theme: "dark"
   
 # Add your sites here
 sites:
@@ -40,6 +37,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.labs.ie
+  theme: "dark"
 
 i18n:
   footer: <a href="https://labs.ie" target="_blank">labs.ie</a>
