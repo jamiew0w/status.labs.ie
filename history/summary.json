@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1934,
-    "timeDay": 2013,
-    "timeWeek": 1929,
-    "timeMonth": 1934,
-    "timeYear": 1934,
+    "time": 1941,
+    "timeDay": 2063,
+    "timeWeek": 1937,
+    "timeMonth": 1941,
+    "timeYear": 1941,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 754,
-    "timeWeek": 732,
-    "timeMonth": 728,
-    "timeYear": 728,
+    "time": 733,
+    "timeDay": 785,
+    "timeWeek": 737,
+    "timeMonth": 733,
+    "timeYear": 733,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 785,
-    "timeWeek": 740,
-    "timeMonth": 737,
-    "timeYear": 737,
+    "time": 736,
+    "timeDay": 776,
+    "timeWeek": 739,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 836,
-    "timeDay": 830,
-    "timeWeek": 837,
-    "timeMonth": 836,
-    "timeYear": 836,
+    "time": 839,
+    "timeDay": 854,
+    "timeWeek": 841,
+    "timeMonth": 839,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2021-01-24": 19
     }
@@ -78,9 +78,9 @@
     "url": "https://help.labs.ie",
     "icon": "https://favicons.githubusercontent.com/help.labs.ie",
     "slug": "help-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 1463,
     "timeMonth": 1455,
     "timeYear": 1455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-25": 0
+    }
   },
   {
     "name": "huginn.labs.ie",
@@ -103,8 +105,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 685,
-    "timeDay": 678,
-    "timeWeek": 684,
+    "timeDay": 677,
+    "timeWeek": 683,
     "timeMonth": 685,
     "timeYear": 685,
     "dailyMinutesDown": {}
@@ -120,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1666,
-    "timeDay": 1492,
-    "timeWeek": 1662,
-    "timeMonth": 1666,
-    "timeYear": 1666,
+    "time": 1672,
+    "timeDay": 1542,
+    "timeWeek": 1668,
+    "timeMonth": 1672,
+    "timeYear": 1672,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1471,
-    "timeDay": 1465,
-    "timeWeek": 1465,
-    "timeMonth": 1471,
-    "timeYear": 1471,
+    "time": 1474,
+    "timeDay": 1486,
+    "timeWeek": 1468,
+    "timeMonth": 1474,
+    "timeYear": 1474,
     "dailyMinutesDown": {}
   },
   {
@@ -156,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 672,
-    "timeWeek": 684,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "time": 682,
+    "timeDay": 684,
+    "timeWeek": 686,
+    "timeMonth": 682,
+    "timeYear": 682,
     "dailyMinutesDown": {}
   },
   {
@@ -175,7 +177,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 719,
-    "timeDay": 698,
+    "timeDay": 695,
     "timeWeek": 723,
     "timeMonth": 719,
     "timeYear": 719,
@@ -192,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 535,
+    "time": 534,
     "timeDay": 528,
     "timeWeek": 535,
-    "timeMonth": 535,
-    "timeYear": 535,
+    "timeMonth": 534,
+    "timeYear": 534,
     "dailyMinutesDown": {}
   }
 ]
