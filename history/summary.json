@@ -4,54 +4,60 @@
     "url": "https://labs.ie",
     "icon": "https://favicons.githubusercontent.com/labs.ie",
     "slug": "labs-ie",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1852,
     "timeDay": 1573,
     "timeWeek": 1818,
     "timeMonth": 1852,
     "timeYear": 1852,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-29": 3
+    }
   },
   {
     "name": "files.labs.ie",
     "url": "https://files.labs.ie",
     "icon": "https://favicons.githubusercontent.com/files.labs.ie",
     "slug": "files-labs-ie",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 723,
     "timeDay": 711,
-    "timeWeek": 725,
+    "timeWeek": 724,
     "timeMonth": 723,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-29": 1
+    }
   },
   {
     "name": "git.labs.ie",
     "url": "https://git.labs.ie",
     "icon": "https://favicons.githubusercontent.com/git.labs.ie",
     "slug": "git-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
     "timeDay": 730,
-    "timeWeek": 722,
+    "timeWeek": 721,
     "timeMonth": 723,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-29": 1
+    }
   },
   {
     "name": "grafana.labs.ie",
@@ -86,7 +92,7 @@
     "uptimeYear": "99.89%",
     "time": 1499,
     "timeDay": 1371,
-    "timeWeek": 1515,
+    "timeWeek": 1514,
     "timeMonth": 1499,
     "timeYear": 1499,
     "dailyMinutesDown": {
@@ -106,7 +112,7 @@
     "uptimeYear": "100.00%",
     "time": 693,
     "timeDay": 724,
-    "timeWeek": 700,
+    "timeWeek": 701,
     "timeMonth": 693,
     "timeYear": 693,
     "dailyMinutesDown": {}
@@ -142,7 +148,7 @@
     "uptimeYear": "100.00%",
     "time": 1491,
     "timeDay": 1423,
-    "timeWeek": 1493,
+    "timeWeek": 1488,
     "timeMonth": 1491,
     "timeYear": 1491,
     "dailyMinutesDown": {}
@@ -160,7 +166,7 @@
     "uptimeYear": "99.78%",
     "time": 684,
     "timeDay": 660,
-    "timeWeek": 689,
+    "timeWeek": 688,
     "timeMonth": 684,
     "timeYear": 684,
     "dailyMinutesDown": {
