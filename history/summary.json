@@ -29,8 +29,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 694,
-    "timeDay": 652,
-    "timeWeek": 671,
+    "timeDay": 650,
+    "timeWeek": 670,
     "timeMonth": 694,
     "timeYear": 694,
     "dailyMinutesDown": {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 702,
-    "timeDay": 659,
+    "time": 701,
+    "timeDay": 654,
     "timeWeek": 682,
-    "timeMonth": 702,
-    "timeYear": 702,
+    "timeMonth": 701,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2021-02-02": 6
     }
@@ -69,8 +69,8 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 830,
-    "timeDay": 839,
-    "timeWeek": 822,
+    "timeDay": 846,
+    "timeWeek": 821,
     "timeMonth": 830,
     "timeYear": 830,
     "dailyMinutesDown": {
@@ -91,8 +91,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 1461,
-    "timeDay": 1710,
-    "timeWeek": 1430,
+    "timeDay": 1707,
+    "timeWeek": 1431,
     "timeMonth": 1461,
     "timeYear": 1461,
     "dailyMinutesDown": {
@@ -112,7 +112,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 667,
-    "timeDay": 601,
+    "timeDay": 602,
     "timeWeek": 644,
     "timeMonth": 667,
     "timeYear": 667,
@@ -141,9 +141,9 @@
     "url": "https://nc.labs.ie",
     "icon": "https://favicons.githubusercontent.com/nc.labs.ie",
     "slug": "nc-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,7 +152,9 @@
     "timeWeek": 1487,
     "timeMonth": 1479,
     "timeYear": 1479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-02": 0
+    }
   },
   {
     "name": "paste.labs.ie",
@@ -166,8 +168,8 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 656,
-    "timeDay": 607,
-    "timeWeek": 636,
+    "timeDay": 610,
+    "timeWeek": 637,
     "timeMonth": 656,
     "timeYear": 656,
     "dailyMinutesDown": {
@@ -185,11 +187,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 722,
-    "timeDay": 877,
+    "time": 723,
+    "timeDay": 879,
     "timeWeek": 720,
-    "timeMonth": 722,
-    "timeYear": 722,
+    "timeMonth": 723,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2021-02-02": 25
     }
@@ -206,7 +208,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 509,
-    "timeDay": 449,
+    "timeDay": 448,
     "timeWeek": 492,
     "timeMonth": 509,
     "timeYear": 509,
