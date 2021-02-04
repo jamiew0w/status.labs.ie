@@ -6,8 +6,6 @@ repo: status.labs.ie
 sites:
   - name: labs.ie
     url: https://labs.ie
-  - name: files.labs.ie
-    url: https://files.labs.ie
   - name: git.labs.ie
     url: https://git.labs.ie
   - name: grafana.labs.ie
