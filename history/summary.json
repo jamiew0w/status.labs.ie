@@ -127,18 +127,18 @@
     "icon": "https://favicons.githubusercontent.com/nc.labs.ie",
     "slug": "nc-labs-ie",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1425,
     "timeDay": 1171,
     "timeWeek": 1365,
     "timeMonth": 1425,
     "timeYear": 1425,
     "dailyMinutesDown": {
-      "2021-02-05": 1
+      "2021-02-05": 9
     }
   },
   {
