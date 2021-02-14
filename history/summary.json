@@ -87,7 +87,7 @@
     "slug": "huginn-labs-ie",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.62%",
@@ -97,7 +97,6 @@
     "timeMonth": 607,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2021-02-14": 0,
       "2021-02-03": 58,
       "2021-02-02": 90
     }
