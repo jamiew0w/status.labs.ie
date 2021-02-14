@@ -1,7 +1,7 @@
 url: https://huginn.labs.ie
-status: down
-code: 502
-responseTime: 452
-lastUpdated: 2021-02-14T20:57:47.064Z
+status: up
+code: 200
+responseTime: 565
+lastUpdated: 2021-02-14T21:04:37.831Z
 startTime: Mon Jan 18 2021 15:39:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
