@@ -20,8 +20,6 @@ sites:
   - name: jenkins.labs.ie
     url: https://jenkins.labs.ie
     icon: https://jenkins.labs.ie/favicon.ico
-    expectedStatusCodes:
-      - 404
   - name: nc.labs.ie
     url: https://nc.labs.ie
     icon: https://nc.labs.ie/apps/theming/favicon?v=18
