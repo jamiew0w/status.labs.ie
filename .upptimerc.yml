@@ -8,18 +8,23 @@ sites:
     url: https://labs.ie
   - name: git.labs.ie
     url: https://git.labs.ie
+    icon: https://git.labs.ie/img/favicon.svg
   - name: grafana.labs.ie
     url: https://grafana.labs.ie
+    icon: https://grafana.labs.ie/public/img/fav32.png
   - name: help.labs.ie
     url: https://help.labs.ie
+    icon: https://help.labs.ie/images/favicon.ico
   - name: huginn.labs.ie
     url: https://huginn.labs.ie
   - name: jenkins.labs.ie
     url: https://jenkins.labs.ie
   - name: nc.labs.ie
     url: https://nc.labs.ie
+    icon: https://nc.labs.ie/apps/theming/favicon?v=18
   - name: paste.labs.ie
     url: https://paste.labs.ie
+    icon: https://paste.labs.ie/img/favicon.ico
   - name: zabbix.labs.ie
     url: https://zabbix.labs.ie
   - name: znc.labs.ie
