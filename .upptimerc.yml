@@ -19,7 +19,6 @@ sites:
     url: https://huginn.labs.ie
   - name: jenkins.labs.ie
     url: https://jenkins.labs.ie
-    icon: https://jenkins.labs.ie/favicon.ico
     expectedStatusCodes:
       - 403
   - name: nc.labs.ie
