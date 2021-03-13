@@ -1,7 +1,7 @@
 url: https://nc.labs.ie
-status: up
-code: 200
-responseTime: 938
-lastUpdated: 2021-03-13T02:43:21.156Z
+status: down
+code: 502
+responseTime: 394
+lastUpdated: 2021-03-13T02:57:05.529Z
 startTime: Mon Jan 18 2021 15:39:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
