@@ -23,7 +23,6 @@ sites:
       - 403
   - name: nc.labs.ie
     url: https://nc.labs.ie
-    icon: https://nc.labs.ie/apps/theming/favicon?v=18
   - name: paste.labs.ie
     url: https://paste.labs.ie
     icon: https://paste.labs.ie/img/favicon.ico
