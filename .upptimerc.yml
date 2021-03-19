@@ -30,6 +30,8 @@ sites:
     url: https://zabbix.labs.ie
   - name: znc.labs.ie
     url: https://znc.labs.ie
+  - name: Broken Site
+    url: https://thissitedoesnotexist.com
 
 assignees:
   - jamiew0w
