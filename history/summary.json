@@ -22,10 +22,10 @@
     "url": "https://git.labs.ie",
     "icon": "https://git.labs.ie/img/favicon.svg",
     "slug": "git-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 622,
@@ -33,7 +33,9 @@
     "timeWeek": 635,
     "timeMonth": 647,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-22": 1
+    }
   },
   {
     "name": "grafana.labs.ie",
