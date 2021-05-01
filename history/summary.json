@@ -58,20 +58,18 @@
     "url": "https://help.labs.ie",
     "icon": "https://help.labs.ie/images/favicon.ico",
     "slug": "help-labs-ie",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1187,
-    "timeDay": 1255,
-    "timeWeek": 1330,
-    "timeMonth": 1279,
+    "timeDay": 1238,
+    "timeWeek": 1327,
+    "timeMonth": 1278,
     "timeYear": 1187,
-    "dailyMinutesDown": {
-      "2021-05-01": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "huginn.labs.ie",
