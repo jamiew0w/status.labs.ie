@@ -24,18 +24,16 @@
     "slug": "git-labs-ie",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
     "timeDay": 667,
     "timeWeek": 605,
     "timeMonth": 615,
     "timeYear": 621,
-    "dailyMinutesDown": {
-      "2021-05-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "grafana.labs.ie",
@@ -78,18 +76,20 @@
     "url": "https://huginn.labs.ie",
     "icon": "https://favicons.githubusercontent.com/huginn.labs.ie",
     "slug": "huginn-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 666,
-    "timeWeek": 623,
+    "time": 600,
+    "timeDay": 658,
+    "timeWeek": 622,
     "timeMonth": 648,
-    "timeYear": 601,
-    "dailyMinutesDown": {}
+    "timeYear": 600,
+    "dailyMinutesDown": {
+      "2021-05-16": 0
+    }
   },
   {
     "name": "jenkins.labs.ie",
@@ -114,19 +114,19 @@
     "url": "https://nc.labs.ie",
     "icon": "https://favicons.githubusercontent.com/nc.labs.ie",
     "slug": "nc-labs-ie",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1250,
-    "timeDay": 1311,
+    "timeDay": 1306,
     "timeWeek": 1239,
     "timeMonth": 1304,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2021-05-16": 2
+      "2021-05-16": 5
     }
   },
   {
