@@ -166,19 +166,19 @@
     "url": "https://znc.labs.ie",
     "icon": "https://favicons.githubusercontent.com/znc.labs.ie",
     "slug": "znc-labs-ie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 466,
-    "timeDay": 489,
-    "timeWeek": 488,
-    "timeMonth": 479,
+    "timeDay": 482,
+    "timeWeek": 487,
+    "timeMonth": 478,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2021-05-24": 3
+      "2021-05-24": 15
     }
   }
 ]
