@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 820,
     "timeDay": 136,
-    "timeWeek": 157,
+    "timeWeek": 158,
     "timeMonth": 183,
     "timeYear": 820,
     "dailyMinutesDown": {}
@@ -40,18 +40,20 @@
     "url": "https://grafana.labs.ie",
     "icon": "https://grafana.labs.ie/public/img/fav32.png",
     "slug": "grafana-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1100,
-    "timeDay": 1138,
-    "timeWeek": 1374,
-    "timeMonth": 1365,
+    "timeDay": 1112,
+    "timeWeek": 1369,
+    "timeMonth": 1363,
     "timeYear": 1100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-19": 1
+    }
   },
   {
     "name": "help.labs.ie",
