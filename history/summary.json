@@ -76,10 +76,10 @@
     "url": "https://huginn.labs.ie",
     "icon": "https://favicons.githubusercontent.com/huginn.labs.ie",
     "slug": "huginn-labs-ie",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 608,
@@ -87,9 +87,7 @@
     "timeWeek": 614,
     "timeMonth": 624,
     "timeYear": 608,
-    "dailyMinutesDown": {
-      "2021-06-23": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "jenkins.labs.ie",
