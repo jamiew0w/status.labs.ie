@@ -23,9 +23,6 @@ sites:
       - 403
   - name: nc.labs.ie
     url: https://nc.labs.ie
-  - name: paste.labs.ie
-    url: https://paste.labs.ie
-    icon: https://paste.labs.ie/img/favicon.ico
   - name: zabbix.labs.ie
     url: https://zabbix.labs.ie
   - name: znc.labs.ie
