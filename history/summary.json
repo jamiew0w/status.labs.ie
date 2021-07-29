@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 724,
-    "timeDay": 127,
-    "timeWeek": 146,
+    "timeDay": 129,
+    "timeWeek": 147,
     "timeMonth": 149,
     "timeYear": 724,
     "dailyMinutesDown": {}
@@ -24,16 +24,18 @@
     "slug": "git-labs-ie",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
-    "timeDay": 495,
-    "timeWeek": 532,
+    "timeDay": 506,
+    "timeWeek": 534,
     "timeMonth": 533,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-29": 1
+    }
   },
   {
     "name": "grafana.labs.ie",
@@ -42,16 +44,18 @@
     "slug": "grafana-labs-ie",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1122,
-    "timeDay": 1151,
-    "timeWeek": 1206,
+    "timeDay": 1140,
+    "timeWeek": 1203,
     "timeMonth": 1249,
     "timeYear": 1122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-29": 0
+    }
   },
   {
     "name": "help.labs.ie",
@@ -65,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1194,
-    "timeDay": 1139,
-    "timeWeek": 1158,
-    "timeMonth": 1198,
+    "timeDay": 1147,
+    "timeWeek": 1160,
+    "timeMonth": 1199,
     "timeYear": 1194,
     "dailyMinutesDown": {}
   },
@@ -83,7 +87,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 609,
-    "timeDay": 590,
+    "timeDay": 593,
     "timeWeek": 588,
     "timeMonth": 615,
     "timeYear": 609,
@@ -101,8 +105,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 929,
-    "timeDay": 552,
-    "timeWeek": 571,
+    "timeDay": 560,
+    "timeWeek": 572,
     "timeMonth": 606,
     "timeYear": 929,
     "dailyMinutesDown": {}
@@ -118,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1252,
-    "timeDay": 1124,
+    "time": 1251,
+    "timeDay": 1116,
     "timeWeek": 1178,
-    "timeMonth": 1218,
-    "timeYear": 1252,
+    "timeMonth": 1217,
+    "timeYear": 1251,
     "dailyMinutesDown": {}
   },
   {
@@ -137,8 +141,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
-    "timeDay": 561,
-    "timeWeek": 593,
+    "timeDay": 569,
+    "timeWeek": 594,
     "timeMonth": 614,
     "timeYear": 607,
     "dailyMinutesDown": {}
@@ -155,8 +159,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 474,
-    "timeDay": 540,
-    "timeWeek": 569,
+    "timeDay": 529,
+    "timeWeek": 570,
     "timeMonth": 521,
     "timeYear": 474,
     "dailyMinutesDown": {}
