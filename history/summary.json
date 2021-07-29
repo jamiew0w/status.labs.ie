@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 724,
-    "timeDay": 126,
+    "timeDay": 127,
     "timeWeek": 145,
     "timeMonth": 148,
     "timeYear": 724,
@@ -29,7 +29,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 607,
-    "timeDay": 507,
+    "timeDay": 518,
     "timeWeek": 533,
     "timeMonth": 533,
     "timeYear": 607,
@@ -43,18 +43,18 @@
     "icon": "https://grafana.labs.ie/public/img/fav32.png",
     "slug": "grafana-labs-ie",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "91.67%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.93%",
+    "uptimeDay": "87.49%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.93%",
     "time": 1122,
-    "timeDay": 1142,
-    "timeWeek": 1202,
+    "timeDay": 1170,
+    "timeWeek": 1203,
     "timeMonth": 1249,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2021-07-29": 120
+      "2021-07-29": 180
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://help.labs.ie/images/favicon.ico",
     "slug": "help-labs-ie",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "91.75%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.94%",
+    "uptimeDay": "87.56%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.94%",
     "time": 1194,
-    "timeDay": 1148,
+    "timeDay": 1149,
     "timeWeek": 1162,
     "timeMonth": 1199,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2021-07-29": 119
+      "2021-07-29": 179
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://favicons.githubusercontent.com/huginn.labs.ie",
     "slug": "huginn-labs-ie",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "91.83%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.94%",
+    "uptimeDay": "87.64%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.94%",
     "time": 609,
-    "timeDay": 609,
+    "timeDay": 618,
     "timeWeek": 591,
     "timeMonth": 615,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2021-07-29": 118
+      "2021-07-29": 178
     }
   },
   {
@@ -103,18 +103,18 @@
     "icon": "https://favicons.githubusercontent.com/jenkins.labs.ie",
     "slug": "jenkins-labs-ie",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "91.92%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.94%",
+    "uptimeDay": "87.71%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.94%",
     "time": 929,
-    "timeDay": 571,
-    "timeWeek": 573,
+    "timeDay": 567,
+    "timeWeek": 571,
     "timeMonth": 607,
     "timeYear": 929,
     "dailyMinutesDown": {
-      "2021-07-29": 116
+      "2021-07-29": 177
     }
   },
   {
@@ -123,18 +123,18 @@
     "icon": "https://favicons.githubusercontent.com/nc.labs.ie",
     "slug": "nc-labs-ie",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "92.00%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.94%",
+    "uptimeDay": "87.79%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.94%",
     "time": 1251,
-    "timeDay": 1135,
-    "timeWeek": 1179,
-    "timeMonth": 1218,
+    "timeDay": 1157,
+    "timeWeek": 1180,
+    "timeMonth": 1219,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2021-07-29": 115
+      "2021-07-29": 176
     }
   },
   {
@@ -143,18 +143,18 @@
     "icon": "https://favicons.githubusercontent.com/zabbix.labs.ie",
     "slug": "zabbix-labs-ie",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "92.06%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.94%",
+    "uptimeDay": "87.85%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.94%",
     "time": 607,
-    "timeDay": 577,
+    "timeDay": 588,
     "timeWeek": 596,
-    "timeMonth": 615,
+    "timeMonth": 614,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2021-07-29": 114
+      "2021-07-29": 175
     }
   },
   {
@@ -169,9 +169,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 474,
-    "timeDay": 476,
+    "timeDay": 481,
     "timeWeek": 571,
-    "timeMonth": 521,
+    "timeMonth": 522,
     "timeYear": 474,
     "dailyMinutesDown": {}
   }
