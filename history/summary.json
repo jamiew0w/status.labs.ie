@@ -22,60 +22,54 @@
     "url": "https://git.labs.ie",
     "icon": "https://git.labs.ie/img/favicon.svg",
     "slug": "git-labs-ie",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 605,
-    "timeDay": 520,
+    "timeDay": 519,
     "timeWeek": 521,
     "timeMonth": 520,
     "timeYear": 605,
-    "dailyMinutesDown": {
-      "2021-08-05": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "grafana.labs.ie",
     "url": "https://grafana.labs.ie",
     "icon": "https://grafana.labs.ie/public/img/fav32.png",
     "slug": "grafana-labs-ie",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1123,
-    "timeDay": 1234,
-    "timeWeek": 1189,
+    "timeDay": 1240,
+    "timeWeek": 1191,
     "timeMonth": 1232,
     "timeYear": 1123,
-    "dailyMinutesDown": {
-      "2021-08-05": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "help.labs.ie",
     "url": "https://help.labs.ie",
     "icon": "https://help.labs.ie/images/favicon.ico",
     "slug": "help-labs-ie",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1195,
-    "timeDay": 1730,
-    "timeWeek": 1221,
+    "timeDay": 1700,
+    "timeWeek": 1220,
     "timeMonth": 1199,
     "timeYear": 1195,
-    "dailyMinutesDown": {
-      "2021-08-05": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "huginn.labs.ie",
