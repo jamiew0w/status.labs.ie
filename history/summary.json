@@ -22,10 +22,10 @@
     "url": "https://git.labs.ie",
     "icon": "https://git.labs.ie/img/favicon.svg",
     "slug": "git-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 599,
@@ -33,115 +33,129 @@
     "timeWeek": 518,
     "timeMonth": 516,
     "timeYear": 599,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-24": 1
+    }
   },
   {
     "name": "grafana.labs.ie",
     "url": "https://grafana.labs.ie",
     "icon": "https://grafana.labs.ie/public/img/fav32.png",
     "slug": "grafana-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1105,
-    "timeDay": 753,
-    "timeWeek": 766,
-    "timeMonth": 971,
+    "timeDay": 729,
+    "timeWeek": 762,
+    "timeMonth": 970,
     "timeYear": 1105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-24": 1
+    }
   },
   {
     "name": "help.labs.ie",
     "url": "https://help.labs.ie",
     "icon": "https://help.labs.ie/images/favicon.ico",
     "slug": "help-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1177,
-    "timeDay": 878,
-    "timeWeek": 872,
+    "timeDay": 856,
+    "timeWeek": 868,
     "timeMonth": 1019,
     "timeYear": 1177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-24": 1
+    }
   },
   {
     "name": "huginn.labs.ie",
     "url": "https://huginn.labs.ie",
     "icon": "https://favicons.githubusercontent.com/huginn.labs.ie",
     "slug": "huginn-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
-    "timeDay": 609,
-    "timeWeek": 583,
-    "timeMonth": 586,
+    "timeDay": 594,
+    "timeWeek": 580,
+    "timeMonth": 585,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-24": 2
+    }
   },
   {
     "name": "jenkins.labs.ie",
     "url": "https://jenkins.labs.ie",
     "icon": "https://favicons.githubusercontent.com/jenkins.labs.ie",
     "slug": "jenkins-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 571,
-    "timeWeek": 562,
+    "time": 897,
+    "timeDay": 557,
+    "timeWeek": 560,
     "timeMonth": 568,
-    "timeYear": 898,
-    "dailyMinutesDown": {}
+    "timeYear": 897,
+    "dailyMinutesDown": {
+      "2021-08-24": 2
+    }
   },
   {
     "name": "nc.labs.ie",
     "url": "https://nc.labs.ie",
     "icon": "https://favicons.githubusercontent.com/nc.labs.ie",
     "slug": "nc-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1231,
-    "timeDay": 880,
-    "timeWeek": 887,
-    "timeMonth": 1038,
+    "timeDay": 854,
+    "timeWeek": 883,
+    "timeMonth": 1037,
     "timeYear": 1231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-24": 2
+    }
   },
   {
     "name": "zabbix.labs.ie",
     "url": "https://zabbix.labs.ie",
     "icon": "https://favicons.githubusercontent.com/zabbix.labs.ie",
     "slug": "zabbix-labs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 605,
-    "timeDay": 590,
-    "timeWeek": 587,
-    "timeMonth": 585,
+    "timeDay": 572,
+    "timeWeek": 584,
+    "timeMonth": 584,
     "timeYear": 605,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-24": 3
+    }
   },
   {
     "name": "znc.labs.ie",
